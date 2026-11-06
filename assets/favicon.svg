@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Taller Hermanos Martínez">
+  <rect width="64" height="64" rx="15" fill="#FBF6EE"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="13.5" fill="none" stroke="#9C5F40" stroke-opacity=".35" stroke-width="3"/>
+  <svg x="9" y="8" width="46" height="46" viewBox="440 215 670 675">
+    <g fill="#6E402B" transform="translate(9 12)">
+      <circle cx="715" cy="272" r="50"/><circle cx="835" cy="268" r="50"/>
+      <circle cx="662" cy="362" r="50"/><circle cx="777" cy="362" r="50"/><circle cx="893" cy="362" r="50"/>
+      <circle cx="600" cy="455" r="50"/><circle cx="718" cy="455" r="50"/><circle cx="835" cy="455" r="50"/><circle cx="952" cy="455" r="50"/>
+    </g>
+    <g fill="#A66B49">
+      <circle cx="715" cy="272" r="50"/><circle cx="835" cy="268" r="50"/>
+      <circle cx="662" cy="362" r="50"/><circle cx="777" cy="362" r="50"/><circle cx="893" cy="362" r="50"/>
+      <circle cx="600" cy="455" r="50"/><circle cx="718" cy="455" r="50"/><circle cx="835" cy="455" r="50"/><circle cx="952" cy="455" r="50"/>
+    </g>
+    <g fill="none" stroke-width="46" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#6E402B" transform="translate(9 12)">
+        <path d="M742 848C560 812 470 690 500 610C535 520 690 520 775 600C860 520 1015 520 1050 610C1080 690 990 812 808 848"/>
+        <path d="M690 630C640 640 625 760 690 785C755 760 745 640 690 630Z"/>
+        <path d="M860 630C810 640 795 760 860 785C925 760 915 640 860 630Z"/>
+      </g>
+      <g stroke="#A66B49">
+        <path d="M742 848C560 812 470 690 500 610C535 520 690 520 775 600C860 520 1015 520 1050 610C1080 690 990 812 808 848"/>
+        <path d="M690 630C640 640 625 760 690 785C755 760 745 640 690 630Z"/>
+        <path d="M860 630C810 640 795 760 860 785C925 760 915 640 860 630Z"/>
+      </g>
+    </g>
+  </svg>
+</svg>
