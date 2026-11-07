@@ -443,6 +443,9 @@ body::before {
 .wood__sheen { position: absolute; inset: -40%; background: linear-gradient(105deg, transparent 42%, rgba(255, 255, 255, .3) 50%, transparent 58%); animation: sheen 6s ease-in-out infinite; }
 .wood h3 { font-family: var(--ff-display); font-weight: 400; font-size: 1.9rem; line-height: 1.1; padding-inline: .6rem; }
 .wood p { margin: .5rem .6rem 0; color: rgba(251, 246, 238, .75); font-size: .95rem; }
+.wood .mini-tags { margin: 1rem .6rem 0; }
+.woods__more { margin-top: 2.2rem; }
+.woods__more h3 { font-family: var(--ff-display); font-weight: 400; font-size: 1.5rem; line-height: 1.1; margin-bottom: .8rem; }
 .woods__cta { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; margin-top: 2.2rem; padding-top: 2rem; border-top: 1px solid rgba(251, 246, 238, .15); font-family: var(--ff-display); font-size: 1.25rem; font-weight: 300; }
 
 /* 14 · POR QUÉ (BENTO) --------------------------------------------------- */
