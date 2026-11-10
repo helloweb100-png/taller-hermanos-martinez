@@ -546,6 +546,9 @@ body::before {
 .final h2 em { font-weight: 300; color: var(--copper); }
 .final p { margin: 1.4rem auto 0; max-width: 32rem; color: rgba(255, 255, 255, .82); font-size: 1.08rem; }
 .final__actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .8rem; margin-top: 2.2rem; }
+.final .final__follow { margin-top: 2.4rem; font: 600 .8rem/1.2 var(--ff-cond); letter-spacing: .22em; text-transform: uppercase; color: var(--copper); }
+.final__social { margin-top: 1rem; }
+.final__social .btn .ico { width: 1.6em; height: 1.6em; }
 
 .site-footer { background: #1D110B; color: rgba(251, 246, 238, .75); padding: 4rem 0 1.6rem; }
 .site-footer__grid { display: grid; gap: 2.4rem; }
@@ -557,6 +560,8 @@ body::before {
 .site-footer a { color: rgba(251, 246, 238, .85); text-decoration: none; }
 .site-footer a:hover { color: #fff; text-decoration: underline; }
 .site-footer__contact { display: grid; gap: .8rem; align-content: start; font-size: .93rem; }
+.site-footer .social-link { display: inline-flex; align-items: center; gap: .6rem; justify-self: start; }
+.site-footer .social-link .ico { width: 1.25rem; height: 1.25rem; color: var(--copper); }
 .site-footer__legal { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1.4rem; border-top: 1px solid rgba(251, 246, 238, .12); font-size: .84rem; }
 .to-top { width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; border: 1px solid rgba(251, 246, 238, .3); transition: background .3s, transform .3s var(--ease); }
 .to-top:hover { background: var(--copper); transform: translateY(-3px); text-decoration: none !important; }
